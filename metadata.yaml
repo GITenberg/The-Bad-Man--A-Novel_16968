@@ -1,0 +1,31 @@
+_repo: The-Bad-Man--A-Novel_16968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Towne, Charles Hanson
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '5788'
+    url: http://www.gutenberg.org/2009/agents/5788
+  - agent_name: Browne, Porter Emerson
+    birthdate: 1879
+    deathdate: 1934
+    gutenberg_agent_id: '1988'
+    url: http://www.gutenberg.org/2009/agents/1988
+description: ''
+gutenberg_issued: '2005-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'The Bad Man: A Novel'
+url: http://www.gutenberg.org/ebooks/16968
